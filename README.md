@@ -1,10 +1,5 @@
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
-### 开源项目
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Youtju&repo=mp4To4K-rust)](https://github.com/Minori-ty/mp4To4K-rust)
-<br><br><br>
-
 ### Github 活跃度
 
 [![](https://activity-graph.herokuapp.com/graph?username=Youtju&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
